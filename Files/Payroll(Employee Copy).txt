@@ -1,0 +1,10 @@
+Employee No.: 1111
+Basic Salary: 25000
+Clothing Allowance: 1000
+Phone Allowance: 1000
+Rice Subsidy: 1500
+Insurance Deduction: 5000
+Tax Deduction: 2500
+Salary (Net): 33500
+Salary (Gross): 26000
+************************
