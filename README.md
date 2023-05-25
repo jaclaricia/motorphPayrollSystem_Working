@@ -18,7 +18,7 @@ Example:
 
 "C:\Users\clari\eclipse-workspace\MotorPH_TerminalAssessment\src\Icons"
 
-(5) Run the MotorPH.jar to open the program
+(5) Run the MotorPH-TerminalAssessment.jar to open the program
 
 (6) Use the login credentials below to access user accounts
 
