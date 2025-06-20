@@ -1,4 +1,4 @@
-# TerminalAssessment
+# MotorPH Payroll System
 
 *Intructions
 
